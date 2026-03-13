@@ -35,6 +35,8 @@
         ```bash
         dotnet ef database update
         ```
+3. **Đổ dữ liệu vào Database**
+   * Mở tệp .sql chạy vào Database vừa mới update ở bước 2 để đổ dữ liệu.
 
 3.  **Chạy ứng dụng**
     ```bash
