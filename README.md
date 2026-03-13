@@ -6,9 +6,8 @@
 ## 🚀 Các tính năng chính
 * **Quản lý kho sách:** Thêm mới, chỉnh sửa, xóa và tổ chức thông tin sách theo danh mục, tác giả, nhà xuất bản.
 * **Quản lý Mượn/Trả:** Theo dõi chi tiết các phiếu mượn sách, tình trạng sách, ngày đến hạn và lịch sử mượn của từng độc giả.
-* **Tra cứu thông minh:** Hỗ trợ tìm kiếm sách nhanh chóng theo nhiều tiêu chí (tên sách, thể loại, tác giả,...).
+* **Tra cứu thông minh:** Hỗ trợ tìm kiếm sách nhanh chóng theo phân loại sách.
 * **Phân quyền người dùng:** Hệ thống xác thực và phân quyền chặt chẽ sử dụng **ASP.NET Core Identity** (Quản trị viên/Độc giả).
-* **Giao diện thân thiện:** Thiết kế đáp ứng (Responsive) dễ sử dụng trên cả máy tính và thiết bị di động.
 
 ## 🛠️ Công nghệ sử dụng
 * **Backend:** ASP.NET Core MVC, Entity Framework Core.
